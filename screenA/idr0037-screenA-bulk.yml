@@ -8,7 +8,9 @@ transfer: "ln_s"
 checksum_algorithm: "File-Size-64"
 logprefix: "logs/"
 output: "yaml"
+skip: "all"
 parallel_upload: "50"
+parallel_fileset: "4"
 columns:
     - name
     - path
