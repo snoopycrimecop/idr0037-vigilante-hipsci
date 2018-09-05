@@ -10,7 +10,6 @@ logprefix: "logs/"
 output: "yaml"
 skip: "all"
 parallel_upload: "50"
-parallel_fileset: "4"
 columns:
     - name
     - path
