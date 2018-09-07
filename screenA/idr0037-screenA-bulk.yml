@@ -1,4 +1,15 @@
 ---
 target: "Screen:name:idr0037-vigilante-hipsci/screenA"
-include: "../../bulk.yml"
 path: "idr0037-screenA-plates.tsv"
+continue: "true"
+transfer: "ln_s"
+# Do not exclude if we are reimporting raw data from idr0034
+# exclude: "clientpath"
+l: readers.txt
+checksum_algorithm: "File-Size-64"
+logprefix: "logs/"
+output: "yaml"
+parallel_upload: "50"
+columns:
+    - name
+    - path
