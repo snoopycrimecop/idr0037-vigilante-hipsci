@@ -5,8 +5,8 @@ continue: "true"
 transfer: "ln_s"
 # Do not exclude if we are reimporting raw data from idr0034
 # exclude: "clientpath"
-l: readers.txt
-checksum_algorithm: "File-Size-64"
+readers: "readers.txt"
+skip: "all"
 logprefix: "logs/"
 output: "yaml"
 parallel_upload: "50"
