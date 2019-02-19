@@ -23,4 +23,4 @@ channels:
     min: 507
     max: 8173
     color: "808080"
-    active: False
+    active: false
