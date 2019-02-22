@@ -31,7 +31,7 @@ Study Data DOI
 Study Person Last Name	Danovi						
 Study Person First Name	Davide						
 Study Person Email	davide.danovi@kcl.ac.uk						
-Study Person Address	"Centre for Stem Cells & Regenerative Medicine, King's College London, Tower Wing, Guy's Hospital, Great Maze Pond, London SE1 9RT, United Kingdom"						
+Study Person Address	Centre for Stem Cells & Regenerative Medicine, King's College London, Tower Wing, Guy's Hospital, Great Maze Pond, London SE1 9RT, United Kingdom						
 Study Person Roles	submitter						
 							
 Term Source Name	NCBITaxon	EFO	CMPO	FBbi	PATO	CL	CHEBI
@@ -43,7 +43,7 @@ Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http:/
 							
 Screen Number	1						
 Comment[IDR Screen Name]	idr0037-vigilante-hipsci/screenA						
-Screen Description	"Cellular phenotyping of 87 human induced pluripotent stem cell lines from 62 donors within the framework of the HipSci project. Cells are plated sparsely, 3000 per 96 well for 24 hours on wells coated with three diverse concentrations of Fibronectin. 29 of the plates are also found in idr0034 but with images from different cell lines shown."						
+Screen Description	Cellular phenotyping of 115 human induced pluripotent stem cell lines from 67 donors within the framework of the HipSci project. Cells are plated sparsely, 3000 per 96 well for 24 hours on wells coated with three diverse concentrations of Fibronectin. This screen is an extension of a previous screen and includes all data from idr0034.						
 Screen Size	Plates: 69	5D Images:	Planes:	Average Image Dimension (XYZCT):	Total Tb:		
 Screen Example Images							
 Screen Imaging Method	fluorescence microscopy						
@@ -101,7 +101,7 @@ Feature Level Data Column Description
 #  Processed Data Files							
 Processed Data File Name	idr0037-screenA-processed.txt						
 Processed Data File Format	tab-delimited text						
-Processed Data File Description	"Provides links to files containing well and cell level measurements, and to documents containing analysis summaries."						
+Processed Data File Description	Provides links to files containing well and cell level measurements, and to documents containing analysis summaries.						
 Processed Data Column Name	Characteristics [Cell Line]	Results Measurements	Results Summary				
 Processed Data Column Type	other	other	other				
 Processed Data Column Annotation Level		cell line	cell line				
