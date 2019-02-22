@@ -1,11 +1,11 @@
 "# Section with generic information about the study including title, description, publication details (if applicable) and contact details"							
 # Study							
 Comment[IDR Study Accession]	idr0037						
-Study Title							
+Study Title	Identifying Extrinsic versus Intrinsic Drivers of Variation in Cell Behavior in Human iPSC Lines from Healthy Donors						
 Study Type	high content screen						
 Study Type Term Source REF	EFO						
 Study Type Term Accession	EFO_0007550						
-Study Description							
+Study Description	Large cohorts of human induced pluripotent stem cells (iPSCs) from healthy donors are a potentially powerful tool for investigating the relationship between genetic variants and cellular behavior. Here, we integrate high content imaging of cell shape, proliferation, and other phenotypes with gene expression and DNA sequence datasets from over 100 human iPSC lines. By applying a dimensionality reduction approach, Probabilistic Estimation of Expression Residuals (PEER), we extracted factors that captured the effects of intrinsic (genetic concordance between different cell lines from the same donor) and extrinsic (cell responses to different fibronectin concentrations) conditions. We identify genes that correlate in expression with intrinsic and extrinsic PEER factors and associate outlier cell behavior with genes containing rare deleterious non-synonymous SNVs. Our study, thus, establishes a strategy for examining the genetic basis of inter-individual variability in cell behavior.						
 Study Organism	Homo sapiens						
 Study Organism Term Source REF	NCBITaxon						
 Study Organism Term Accession	NCBITaxon_9606						
