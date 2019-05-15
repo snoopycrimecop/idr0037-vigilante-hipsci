@@ -41,7 +41,8 @@ Term Source URI	http://purl.obolibrary.org/obo/	http://www.ebi.ac.uk/efo/	http:/
 # Screen; this section should be repeated if a study contains multiple screens							
 							
 Screen Number	1						
-Comment[IDR Screen Name]	idr0037-vigilante-hipsci/screenA						
+Comment[IDR Screen Name]	idr0037-vigilante-hipsci/screenA	
+Screen Sample Type	cell
 Screen Description	Cellular phenotyping of 115 human induced pluripotent stem cell lines from 67 donors within the framework of the HipSci project. Cells are plated sparsely, 3000 per 96 well for 24 hours on wells coated with three diverse concentrations of Fibronectin. This screen is an extension of a previous screen and includes all data from idr0034.						
 Screen Size	Plates: 69	5D Images:	Planes:	Average Image Dimension (XYZCT):	Total Tb:		
 Screen Example Images							
