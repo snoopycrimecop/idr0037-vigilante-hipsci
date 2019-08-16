@@ -15,9 +15,9 @@ Study Public Release Date	2019-02-26
 							
 # Study Publication							
 Study PubMed ID	30784590					
-Study Publication Title	Identifying Extrinsic versus Intrinsic Drivers of Variation in Cell Behavior in Human iPSC Lines from Healthy Donors
-Study Author List	Alessandra Vigilante, Anna Laddach, Nathalie Moens, Ruta Meleckyte, Andreas Leha, Arsham Ghahramani, Oliver J. Culley, Annie Kathuria, Chloe Hurling, Alice Vickers, Erika Wiseman, Mukul Tewary, Peter W. Zandstra, HipSci Consortium, Richard Durbin, Franca Fraternali, Oliver Stegle, Ewan Birney, Nicholas M. Luscombe, Davide Danovi, Fiona M. Watt
-Study PMC ID	
+Study Publication Title	Identifying Extrinsic versus Intrinsic Drivers of Variation in Cell Behavior in Human iPSC Lines from Healthy Donors.
+Study Author List	Vigilante A, Laddach A, Moens N, Meleckyte R, Leha A, Ghahramani A, Culley OJ, Kathuria A, Hurling C, Vickers A, Wiseman E, Tewary M, Zandstra PW, HipSci Consortium., Durbin R, Fraternali F, Stegle O, Birney E, Luscombe NM, Danovi D, Watt FM
+Study PMC ID	PMC6381787
 Study DOI	https://doi.org/10.1016/j.celrep.2019.01.094 						
 # Study License and Data DOI							
 Study License	CC-BY 4.0						
